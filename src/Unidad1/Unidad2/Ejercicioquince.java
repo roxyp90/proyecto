@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QuinielaFutbol {
+public class Ejercicioquince {
     public static void main(String[] args) {
         final int PARTIDOS = 15;
 

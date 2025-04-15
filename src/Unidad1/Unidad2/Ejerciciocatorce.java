@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VentasEmpresa {
+public class Ejerciciocatorce {
     public static void main(String[] args) {
         final int ARTICULOS = 5;
         final int SUCURSALES = 4;
