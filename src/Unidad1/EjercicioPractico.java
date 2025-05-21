@@ -1,3 +1,4 @@
+package Unidad2
 public class EjercicioPractico
 {
     public static void main(String[] args) {

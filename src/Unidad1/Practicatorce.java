@@ -1,3 +1,4 @@
+package Unidad2
 public class Practicatorce {
     public static void main(String[] args) {
         int numero = 5;

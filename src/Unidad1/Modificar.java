@@ -1,3 +1,4 @@
+package Unidad2
 class Modificar {
     int ancho;
     int alto;

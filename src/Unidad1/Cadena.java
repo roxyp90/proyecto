@@ -1,3 +1,4 @@
+package Unidad2
 public class Cadena {
 
     public static void modificarCadena(String texto) {

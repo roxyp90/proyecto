@@ -1,3 +1,4 @@
+package Unidad2
 public class Ejemploarrays {
     public static void main(String[] args) {
         // Declarar e inicializar el array de valores
